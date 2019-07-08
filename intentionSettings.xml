@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Kotlin Android/Add Parcelable Implementation" />
+    <ignoreAction name="Kotlin/Add val/var to primary constructor parameter" />
+  </component>
+</application>
